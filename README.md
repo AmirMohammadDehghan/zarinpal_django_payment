@@ -1,4 +1,4 @@
-#  zarinpal-django-py3
+#  zarinpal-django-py3-api-v4
 
 این یک نمونه کد برای استفاده از زرین پال در جنگو در پایتون ۳ می‌باشد
 
